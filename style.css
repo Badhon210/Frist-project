@@ -1,0 +1,14 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.main-header{
+    width: 100%;
+    height: 121px;
+    background-color: #EAAD00
+}
+.contaner{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 25px;
+}

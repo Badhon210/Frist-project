@@ -4,6 +4,7 @@
 padding: 0;
 box-sizing: border-box;
 }
+/* --------frist-ber------- */
 .header{
     width: 100%;
     height: 121px;
@@ -74,6 +75,8 @@ ul li{
     font-size: 24px;
     color: #ffffff;
 }
+/* ---------frist-ber------- */
+/* ----------banner-start--------- */
 .banner{
 
     background-color: #FFC400;
@@ -163,3 +166,50 @@ ul li{
 .img-content img{
     width: 100%;
 }
+/* --------banner-end------ */
+
+.aminal-care{
+    background-color: #FFC400;
+
+}
+.aminal-care .container {
+    padding-top: 70px;
+    padding-bottom: 96px;
+}
+.aminal-care .container .service-text{
+    text-align: center;
+    padding: 0 262px;    
+}
+.aminal-care .container .service-text h3{
+    font-size: 75px;
+    margin-bottom: 52px;
+    color: #ffffff;
+}
+.aminal-care .container .service-text p{
+    font-size: 34px;
+    color: #ffffff;
+    margin-bottom: 94px;
+}
+.aminal-care .container .service-photo{
+    display: flex;
+    justify-content: space-between;
+
+}
+.aminal-care .container .service-photo .service{
+    width: 30%;
+       
+}
+.aminal-care .container .service-photo h6{
+    font-size: 38px;
+    text-align: center;
+    margin-top: 54px;
+    margin-bottom: 28px;
+    color: #ffffff;
+}
+.aminal-care .container .service-photo p{
+    font-size: 26px;
+    color: #ffffff;
+    text-align: center;
+    font-family:sans-serif
+}
+

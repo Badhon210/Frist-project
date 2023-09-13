@@ -74,3 +74,62 @@ ul li{
     font-size: 24px;
     color: #ffffff;
 }
+.banner{
+
+    background-color: #FFC400;
+}
+.banner .container{
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 92px;
+    padding-bottom: 122px;
+    
+
+}
+.banner-container{
+    padding-right: 30px;
+}
+.banner-container{
+    width: 55%;
+    
+    
+
+}
+.banner-h1{
+    font-size: 66px;
+  line-height: 70px;
+    color:#ffffff;
+    margin-bottom: 56px;
+}
+.banner-para{
+    font-size: 29px;
+    color:#ffffff;
+}
+.banner-batton{
+    margin-top: 46px;
+    
+}
+.banner-batton a{
+    font-size: 20px;
+    padding: 24px 30px;
+    border-radius: 8px;
+    
+}
+.banner-batton a:first-child{
+    background-color:#00BFCB;
+    border: 3px solid #00BFCB;
+    margin-right: 34px;
+}
+.banner-batton a:last-child{
+    border: 3px solid #ffffff;
+
+}
+.banner-img{
+    width: 45%;
+
+}
+.banner-img img{
+    width: 100%;
+}
+

@@ -147,11 +147,14 @@ ul li{
     line-height: 54px;
     margin-bottom: 56px;
     padding-right: 70px;
+    color: #313243;
+    font-family: ;
 }
 .love-of-animal .container p{
     font-size: 29px;
     margin-bottom: 48px;
     padding-right: 56px;
+    color: #313243;
 }
 .love-of-animal .container a{
     font-size: 20px;
@@ -167,6 +170,7 @@ ul li{
     width: 100%;
 }
 /* --------banner-end------ */
+/* ----------service------- */
 
 .aminal-care{
     background-color: #FFC400;
@@ -212,4 +216,48 @@ ul li{
     text-align: center;
     font-family:sans-serif
 }
+/* -------service-end------- */
+/* --------animal-care------ */
+.animal-care-page4 .container{
+    padding: 140px 0;
+    display: flex;
+    justify-content:space-between ;   
+}
+.page4-img-content{
+    width: 50%;
+    margin-right: 68px;
+}
+.page4-img-content img{
+    width: 100%;
+}
 
+.page4-text-content{
+    padding-top: 80px;
+    width: 50%;
+    direction: rtl;
+
+}
+.page4-text-content h2{
+    font-size: 50px;
+    line-height: 54px;
+    font-family: sans-serif;
+    margin-bottom: 52px;
+    color: #313243;
+        
+}
+.page4-text-content p{
+    font-size: 29px;
+    font-family: sans-serif;
+    margin-bottom: 52px;
+    color: #313243;
+    padding-left: 56px;
+
+    
+}
+.page4-text-content a{
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: #FFC400;
+    padding: 24px 30px;
+    
+}

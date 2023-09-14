@@ -349,11 +349,13 @@ ul li{
     text-align: center;
     margin-bottom: 26px;
 }
-.vetcare .icon-bottom{
-    display: inline-block;
+.vetcare .page-6-icon-bottom .icon-bottom{
     background-color: #EAAE00;
     border-radius: 50%;
     border: 1px solid #EAAE00;
-    padding: 7px 7px;
-    
+    padding: 10px 10px;
+    display: inline-block;
+    text-align: center;
+    justify-content: space-between;    
 }
+

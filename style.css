@@ -333,6 +333,7 @@ ul li{
 .vetcare-doctor {
     display: flex;
     justify-content: space-between;
+    text-align: center;
 }
 .vetcare-doctor .vetcare{
     width: 30%;
@@ -354,8 +355,43 @@ ul li{
     border-radius: 50%;
     border: 1px solid #EAAE00;
     padding: 10px 10px;
-    display: inline-block;
-    text-align: center;
-    justify-content: space-between;    
+  
 }
+.page-6-icon-bottom a{
+    padding: 0 8px;
+}
+/* ------page-6-end----- */
+/* ------page-7------ */
+.helth{
+    background-image: url(./img/helth1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 580px;
+   
+}
+.helth .container{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    justify-content: space-between;
+    padding: 160px 0px;
+}
+.helth .container .helth{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    background: none;
+}
+
+.helth .container .helth h5{
+    padding-top: 60px;
+    font-size: 42px;
+}
+.helth .container .helth h6{
+    font-size: 37px;
+}
+/* ------page-7---- */
+/* ------page-8----- */
+
 

@@ -261,3 +261,55 @@ ul li{
     padding: 24px 30px;
     
 }
+/* -------page-4-end----- */
+/* ------page-5------ */
+.get-offer{
+    background-color: #FFC400;
+}
+.get-offer .container{
+    padding: 140px 0;
+}
+.img-content-5{
+    display: flex;
+    justify-content: space-between;
+
+}
+.img-content-5 .sell{
+    width: 30%;
+}
+.page5-text-content h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 48px;
+    color: #ffffff;
+}
+.page5-text-content p{
+    font-size: 33px;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    margin-bottom: 96px;
+    padding: 0 200px;
+    
+}
+.img-content-5 {
+    font-size: 40px;
+    font-family: 'poppins', sans-serif ;
+    text-align: center;
+    margin-top: 46px;
+    color: #ffffff;
+}
+.img-content-5 .sell p span{
+    text-decoration: line-through;
+    margin-right: 16px;   
+}
+.img-content-5 .sell a{
+    font-size: 25px;
+    background-color: aqua;
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    padding: 14px 42px;
+}
+/* ------page-5-end------ */

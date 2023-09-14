@@ -391,7 +391,154 @@ ul li{
 .helth .container .helth h6{
     font-size: 37px;
 }
-/* ------page-7---- */
+/* ------page-7-end---- */
 /* ------page-8----- */
+.Recent-Posts .container{
+    padding: 140px 0;
+    
+}
+.page-text1 h2{
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.page-text1 p{
+    font-size: 33px;
+    text-align: center;
+    padding: 0 250px;
+    margin-bottom: 96px;
+}
+.page-8-all{
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+.page-8-all img{
+    width: 30%;
+    
+}
+.all-text{
+    display: flex;
+    justify-content: space-between;
 
+}
+.all-text .text{
+    width: 30%;
+    border: 2px solid #B5B6B1;
+    border-top: none;
+}
+.all-text .text-2{
+    border: none;
+}
+.text h4{
+    font-size: 25px;
+    padding-right: 80px;
+    margin-top: 34px;
+}
+.text h5{
+    font-size: 16px;
+    color: #00bec9;
+    margin-top: 20px;
+}
+.text p{
+    font-size: 16px;
+    padding-right: 100px;
+    margin-top: 30px;
+}
+.text a{
+    font-size: 21px;
+    color: #00bec9;
+    margin-top: 31px;
+    display: flex;
+}
+/* .........................the end....................  */
 
+.lestpara{
+    width: 100%;
+    background-color: #343434;
+}
+.lestpara .continer{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 25px;
+    background-color: #343434;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 168px;
+    padding-bottom: 120px;
+}
+.lestpara .continer .content h2{
+    font-size: 38px;
+    font-weight: 800;
+    color: #fff;
+}
+.lestpara .continer .content h3{
+    font-size: 25px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 16px;
+}
+.lestpara .continer .content1{
+    width: 25%;
+}
+.lestpara .continer .content2{
+   width: 20%;
+}
+.lestpara .continer .content3{
+   width: 45%;
+   text-align: right;
+}
+.lestpara .continer .content3 .search2{
+    width: 100%;
+    height: 90px;
+    background-color: #daac00;
+    border: 3px solid #daac00;
+    
+}
+.lestpara .continer .content3 h2{
+    font-size: 38px;
+    font-weight: 800;
+    color: #fff;
+}
+.lestpara .continer .content3 p{
+    font-size: 25px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 54px;
+}
+.lestpara .continer .content3 .fa-brands{
+   
+   padding: 15px 15px;
+   background-color: #fff;
+    border-radius: 50%;
+    margin-top: 45px;
+   
+ 
+}
+.lestpara .continer .content3 .fontawesome-icone a{
+    
+    padding:0 10px;
+    font-size: 20px;
+    color: black;
+    
+   
+}
+.list-item{
+    position: relative;
+}
+.list-item .rocat{
+    width: 144px;
+    height: 90px;
+    background-color: #00bec9;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.font6{
+    font-size: 40px;
+    color: #fff;
+}
